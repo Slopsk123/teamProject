@@ -1,4 +1,5 @@
 ﻿using System.Runtime.ExceptionServices;
+string mch= "nice man";
 {
     string result = "";
     string userInput = Console.ReadLine();
